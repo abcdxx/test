@@ -1,0 +1,16 @@
+1.php
+123.txt
+2.sh
+Applications
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+Sites
+composer.phar
+npm-debug.log
+www
